@@ -1,0 +1,26 @@
+.loginContainer{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    margin: 0px 59px;
+    top: 0;
+    top: 30%
+}
+.radioButton{
+  padding: 28px 0px;
+  gap: 12.5rem !important;
+}
+.next{
+    float: right;
+    left: 169px;
+    top: 10px;
+
+}
+.form{
+  background-color: azure;
+  padding:10px 12px;
+  width: 140% !important;
+  border-width: medium;
+  border-radius: 10px;
+}
